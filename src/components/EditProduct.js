@@ -34,8 +34,7 @@ const EditProduct = (props) => {
         })
         
         setProducts(edited_products);
-        
-        console.log('edited_products',edited_products);
+
     }
 
     const handleInputChange = (e) => {
